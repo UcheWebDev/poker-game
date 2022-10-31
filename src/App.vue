@@ -158,9 +158,9 @@ p.state {
   gap: 2.4rem;
 }
 .control .btnContainer {
-  display: flex;``````````````````````````
+  display: flex;
   justify-content: center;
-  align-items: center;
+  /* align-items: center; */
   gap: 1.5rem;
 }
 .control .btnContainer button {
